@@ -1,2 +1,18 @@
 
+
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	border:2px solid yellow;
+	gap: 10px;
+	background-color:gray
+	
+}
+.item{
+	border: 2px solid red;
+	padding: 10px;
+	background-color:green
+	
+}
